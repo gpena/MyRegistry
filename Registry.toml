@@ -1,0 +1,6 @@
+name = "MyRegistry"
+uuid = "5166b0fb-80be-445f-af2b-7ca0bfe85ad7"
+repo = "https://github.com/gpena/MyRegistry.git"
+description = "My private registry"
+
+[packages]
