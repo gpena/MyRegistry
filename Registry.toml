@@ -4,3 +4,4 @@ repo = "https://github.com/gpena/MyRegistry.git"
 description = "My private registry"
 
 [packages]
+72287966-2ff3-4442-8755-61ed245be5f7 = { name = "Bramble", path = "B/Bramble" }
